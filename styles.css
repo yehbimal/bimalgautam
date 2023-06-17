@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Website Title</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h1>Welcome to Your Website</h1>
+      <p>This is the introduction or a brief description of your website.</p>
+    </section>
+
+    <section>
+      <h2>About Me</h2>
+      <p>Write a compelling description about yourself as a blogger and content creator.</p>
+    </section>
+
+    <section>
+      <h2>Blog</h2>
+      <article>
+        <h3>Blog Post Title</h3>
+        <p>This is a sample blog post. Write engaging content and share your ideas and experiences.</p>
+        <a href="#">Read More</a>
+      </article>
+      <!-- Add more articles for additional blog posts -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
 
