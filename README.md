@@ -1,4 +1,4 @@
-# bimalgautam# Bimal Gautam Blogging Website
+# bimalgautam# Blogging Website
 
 Welcome to the Bimal Gautam Blogging Website! This website is designed to showcase my blog posts and provide a platform for sharing valuable content with readers.
 
